@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/b9285c45-704c-4626-9fd1-5a161dc4e736
+**URL**: [https://lovable.dev/projects/b9285c45-704c-4626-9fd1-5a161dc4e736](https://its-juice.github.io/hellas-network-nexus/)
 
 ## How can I edit this code?
 
