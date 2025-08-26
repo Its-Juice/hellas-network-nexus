@@ -96,8 +96,8 @@ const Contact = () => {
           {/* Contact Information */}
           <div className="space-y-6">
             <Card className="shadow-card">
-              <CardHeader>
-                <CardTitle className="text-xl font-heading">Contact Information</CardTitle>
+            <CardHeader>
+              <CardTitle className="text-xl font-heading">Contact Information</CardTitle>
               </CardHeader>
               <CardContent className="space-y-6">
                 {contactInfo.map((info, index) => (
